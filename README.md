@@ -5,10 +5,11 @@ active and up-to-date replacement for the original (which appears to no longer b
 
 ## Install
 
-1. git clone git://github.com/huyng/bashmarks.git
-2. make install
-3. add optional [command prefix](#command-prefix)
-4. source **~/.local/bin/bashmarks.sh** from within your **~.bash\_profile** or **~/.bashrc** file
+1. git clone https://github.com/felipe-b-oliveira/bashmarks.git
+2. cd bashmarks
+3. make install
+4. add optional [command prefix](#command-prefix)
+5. source **~/.local/bin/bashmarks.sh** from within your **~.bash\_profile** or **~/.bashrc** file
 
 ## Command Prefix
 
